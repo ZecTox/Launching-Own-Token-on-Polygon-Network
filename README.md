@@ -1,4 +1,7 @@
 # Launching-Own-Token-on-Polygon-Network
+<img src="https://github.com/ZecTox/Launching-Own-Token-on-Polygon-Network/blob/main/images/Screenshot%202022-10-07%20234719.png"> 
+<img src="https://github.com/ZecTox/Launching-Own-Token-on-Polygon-Network/blob/main/images/Screenshot%202022-10-07%20234906.png">
+<img src="https://github.com/ZecTox/Launching-Own-Token-on-Polygon-Network/blob/main/images/Screenshot%202022-10-07%20235153.png">
 
 <h2> What I've Learned before creating this PROJECT !!! </h2>
 <li> How to create a ERC20 Token like Safemoon, Aave, Shiba Inu, etc </li>
@@ -12,3 +15,7 @@
 <li> OpenZeppelin - Polygon Network supports EVM so we will use ERC-20 Standards </li>
 <li> Metamask Wallet - to interact with Polygon Network for funds </li>
 <li> Quick Node - to interact with Polygon Testnet </li>
+
+My Learnings and Conclusion -->
+<li> </li>
+Finally I have created a token named "ZecTox" which is available in my wallet !!
